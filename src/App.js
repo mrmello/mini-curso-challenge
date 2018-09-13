@@ -13,12 +13,6 @@ class App extends Component {
     };
   }
 
-  loadData(){
-    this.setState({
-      selectedSerial: Serials[0]
-    })
-  }
-
   render() {
     return (
         <div>
