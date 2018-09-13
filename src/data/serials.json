@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Suits",
+        "description": "iasdbahdsbajhb jhbajhb dajhsbd jbvasjhdb asjhbd jhasbjhdb jahsbdhj bajh",
+        "img": "../img/suits.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Shooter",
+        "description": "jbvasjhdb asjhbd jhasbjhdb jahsbdhj bajh akisd naiudhaidhua dagsdadhsa poasihd iahdbais udoa",
+        "img": "../img/shooter.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Supernatural",
+        "description": "ofsifnsidfnaisbd asdia siduhja eu hayweh iqwye askjd iyasgdiahsdi abdi abds aygdsiu a idxauy8dgfeuag ds",
+        "img": "../img/shooter.jpg"
+    }
+]
