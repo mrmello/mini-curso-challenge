@@ -2,19 +2,19 @@
     {
         "id": 1,
         "name": "Suits",
-        "description": "iasdbahdsbajhb jhbajhb dajhsbd jbvasjhdb asjhbd jhasbjhdb jahsbdhj bajh",
-        "img": "../img/suits.jpg"
+        "description": "Suits is a USA Network drama which premiered on June 23, 2011. The series stars Gabriel Macht, and Patrick J. Adams.",
+        "img": "https://manualdohomemmoderno.com.br/files/2017/07/-1.jpg"
     },
     {
         "id": 2,
         "name": "Shooter",
-        "description": "jbvasjhdb asjhbd jhasbjhdb jahsbdhj bajh akisd naiudhaidhua dagsdadhsa poasihd iahdbais udoa",
-        "img": "../img/shooter.jpg"
+        "description": "A conspiracy thriller that follows the journey of Bob Lee, a decorated veteran who is coaxed back into action to prevent a plot to kill the President.",
+        "img": "https://i.ytimg.com/vi/X2x6IR3FhbQ/maxresdefault.jpg"
     },
     {
         "id": 3,
         "name": "Supernatural",
-        "description": "ofsifnsidfnaisbd asdia siduhja eu hayweh iqwye askjd iyasgdiahsdi abdi abds aygdsiu a idxauy8dgfeuag ds",
-        "img": "../img/shooter.jpg"
+        "description": "Supernatural is an American dark fantasy horror television series created by Eric Kripke. It was first broadcast on September 13, 2005",
+        "img": "http://newzline.com/wp-content/uploads/entertainment/tv-show/Supernatural.jpg"
     }
 ]

@@ -15,7 +15,6 @@ class App extends Component {
 
   loadData(){
     this.setState({
-      serial: Serials,
       selectedSerial: Serials[0]
     })
   }
@@ -31,9 +30,6 @@ class App extends Component {
             <SerialDetail serial={this.state.selectedSerial} />
             <SerialList onSerialSelect={selectedSerial => this.setState({selectedSerial})}
                         serials = {Serials} />
-
-            {/* <SerialList onSerialSelect={selectedSerial => this.setState({selectedSerial})}
-                        serial={this.state.Serials} /> */}
           </div>      
         </div>
     );
